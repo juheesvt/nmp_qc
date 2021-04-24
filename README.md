@@ -17,6 +17,7 @@ Python version must be lower than 3.8 (python version < 3.8)
 
 ## Data
 
+[README.md](https://github.com/juheesvt/nmp_qc/blob/master/data/README.md) is a guide to download the qm9 dataset and run the preprocessing code.
 The data used in this project can be downloaded [here](https://github.com/priba/nmp_qc/tree/master/data).
 
 ## Bibliography
