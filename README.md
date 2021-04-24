@@ -10,7 +10,10 @@ Implementation of different models of Neural Networks on graphs as explained in 
 ## Installation of rdkit
 
 Running any experiment using QM9 dataset needs installing the [rdkit](http://www.rdkit.org/) package, which can be done 
-following the instructions available [here](http://www.rdkit.org/docs/Install.html)
+following the instructions available [here](http://www.rdkit.org/docs/Install.html)  
+Python version must be lower than 3.8 (python version < 3.8)
+
+    $ conda install -c rdkit rdkit
 
 ## Data
 
